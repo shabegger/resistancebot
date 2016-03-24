@@ -1,0 +1,27 @@
+{
+  "name": "resistancebot",
+  "version": "0.0.0",
+  "description": "A Slack bot that manages a game of Resistance",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shabegger/resistancebot.git"
+  },
+  "keywords": [
+    "slack",
+    "resistance"
+  ],
+  "author": "Stephen Habegger",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/shabegger/resistancebot/issues"
+  },
+  "homepage": "https://github.com/shabegger/resistancebot#readme",
+  "dependencies": {
+    "lodash": "^4.6.1",
+    "slackbots": "^0.5.1"
+  }
+}
